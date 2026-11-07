@@ -4,4 +4,4 @@ FIFA Street decompiled versiyon için database ve oyun içi formaları değişti
 
 Bu projede aşağıdaki açık kaynaklı çalışmalardan faydalanılmıştır:
 
-* **[Kdmitri-fm](https://github.com)** tarafından geliştirilen **[Rx3Tools](https://github.com/FIFA-Mods/Rx3Tools)** kitswapper'da xbox360'ın rx3'ünde yer alan chunklzx'i çözmek için bu projeden alınarak kit swapper'a entegre edilmiştir.
+* **[dmitri-fm](https://github.com/dmitri-fm)** tarafından geliştirilen **[Rx3Tools](https://github.com/FIFA-Mods/Rx3Tools)** kitswapper'da xbox360'ın rx3'ünde yer alan chunklzx'i çözmek için bu projeden alınarak kit swapper'a entegre edilmiştir.
